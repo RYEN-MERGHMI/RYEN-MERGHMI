@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Stock-Management-System**
 - 👨‍💻 All of my projects are available at [https://github.com/RYEN-MERGHMI](https://github.com/RYEN-MERGHMI)
 - 💬 Ask me about **Spring Boot, Angular, Java, Python, Docker, and more**
-- 📫 How to reach me **rayenmerghmi@gmail.com**
+- 📫 How to reach me **merghmirayen@gmail.com**
 - ⚡ Fun fact **I'm always learning something new!**
 
 <h3 align="left">Connect with me:</h3>
