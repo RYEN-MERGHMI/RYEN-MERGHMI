@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rayen Merghmi</h1>
 <h3 align="center">A passionate Software Engineer from Tunisia</h3>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O2101QXR)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayen-merghmi&label=Profile%20views&color=0e75b6&style=flat" alt="rayen-merghmi" /> </p>
 
